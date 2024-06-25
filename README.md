@@ -38,7 +38,7 @@ Here are some of the projects I'm most proud of:
 ### [Lung Cancer Detection](https://github.com/ipriyaaanshu/lung-cancer-detection)
 An award-winning capstone project that detects lung cancer using machine learning techniques. This project received 24 stars on GitHub and was recognized as the best capstone project in 2018 at GLA University.
 
-### [Risk Analytics for Fannie Mae]([https://github.com/ipriyaaanshu/risk-analytics](https://github.com/ipriyaaanshu/HackUTD-VI))
+### [Risk Analytics for Fannie Mae](https://github.com/ipriyaaanshu/HackUTD-VI)
 A finalist project in the HackUTD VI competition, focusing on risk analytics for Fannie Mae using various machine learning algorithms.
 
 ## 📫 How to Reach Me
