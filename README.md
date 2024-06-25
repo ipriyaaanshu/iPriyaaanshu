@@ -23,8 +23,12 @@ I'm proficient in a variety of tools and technologies, including Python, NLP, Ma
 
 ## 📈 GitHub Stats
 
-![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ipriyaaanshu&show_icons=true&theme=transparent)
-![Priyanshu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipriyaaanshu)
+![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ipriyaaanshu&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ipriyaaanshu&layout=compact&theme=radical)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ipriyaaanshu&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ipriyaaanshu&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ipriyaaanshu&theme=radical)
 
 ## 🌟 Featured Projects
 
