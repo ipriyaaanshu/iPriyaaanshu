@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a Data Scientist passionate about harnessing t
 - **LinkedIn:** [linkedin.com/in/ipriyaaanshu](https://www.linkedin.com/in/ipriyaaanshu)
 - **Kaggle:** [www.kaggle.com/braindeadcoder](https://www.kaggle.com/braindeadcoder)
 
-I'm proficient in a variety of tools and technologies, including Python, NLP, Machine Learning, AWS, and much more. Check out my [resume](https://example.com/resume) for more details.
+I'm proficient in a variety of tools and technologies, including Python, NLP, Machine Learning, AWS, and much more. Check out my [resume](https://drive.google.com/file/d/1JhcKD_SFPhNqaQe8fGX0RmNZi7YJk9jM/view?usp=drive_link) for more details.
 
 ## 🛠️ Skills
 
