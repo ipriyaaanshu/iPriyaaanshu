@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I'm a Data Scientist passionate about harnessing t
 - **Location:** Noida, India | Vancouver, Canada
 - **Email:** [sharma.priyanshu96@gmail.com](mailto:sharma.priyanshu96@gmail.com)
 - **LinkedIn:** [linkedin.com/in/ipriyaaanshu](https://www.linkedin.com/in/ipriyaaanshu)
+- **Kaggle:** [www.kaggle.com/braindeadcoder](https://www.kaggle.com/braindeadcoder)
 
 I'm proficient in a variety of tools and technologies, including Python, NLP, Machine Learning, AWS, and much more. Check out my [resume](https://example.com/resume) for more details.
 
@@ -37,10 +38,7 @@ Here are some of the projects I'm most proud of:
 ### [Lung Cancer Detection](https://github.com/ipriyaaanshu/lung-cancer-detection)
 An award-winning capstone project that detects lung cancer using machine learning techniques. This project received 24 stars on GitHub and was recognized as the best capstone project in 2018 at GLA University.
 
-### [NLP Hackathon Winner](https://github.com/ipriyaaanshu/nlp-hackathon)
-This project won the first position at the Mindtree NLP Hackathon in Dallas, United States. It's an advanced NLP model that processes and analyzes large volumes of text data.
-
-### [Risk Analytics for Fannie Mae](https://github.com/ipriyaaanshu/risk-analytics)
+### [Risk Analytics for Fannie Mae]([https://github.com/ipriyaaanshu/risk-analytics](https://github.com/ipriyaaanshu/HackUTD-VI))
 A finalist project in the HackUTD VI competition, focusing on risk analytics for Fannie Mae using various machine learning algorithms.
 
 ## 📫 How to Reach Me
