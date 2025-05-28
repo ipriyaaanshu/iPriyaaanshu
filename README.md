@@ -4,7 +4,7 @@ Welcome to my GitHub! I’m a Data Scientist, Researcher, and Technology Leader 
 
 I specialize in designing agentic architectures, AI-powered workflows, and domain-specific applications that solve high-stakes problems across **healthcare**, **compliance**, **education**, and **retail**.
 
-> 🧠 Founder @ [ByteBrain](https://bytebrain.ai) | Inventor | Open-Source Advocate | AI Researcher | Judge for Global Tech Awards | Springer Nature Contributor
+> 🧠 Founder @ [ByteBrain](https://thebytebrain.com) | Inventor | Open-Source Advocate | AI Researcher | Judge for Global Tech Awards | Springer Nature Contributor
 
 ---
 
