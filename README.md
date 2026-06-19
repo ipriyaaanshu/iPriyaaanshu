@@ -66,7 +66,8 @@ Recently, I've been deep in the **Hermes Agent** ecosystem — contributing bug 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ipriyaaanshu&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ipriyaaanshu&theme=tokyonight&hide_border=true&background=1a1b27)
-![Trophies](https://github-profile-trophy.vercel.app/?username=ipriyaaanshu&theme=tokyonight&no-frame=true&no-bg=true&column=4)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ipriyaaanshu&theme=tokyo-night&hide_border=true&bg_color=1a1b27)
 
 </div>
 
