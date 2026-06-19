@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Priyanshu Sharma
 
-<img align="right" src="https://komarev.com/ghpvc/?username=ipriyaaanshu&color=1a1b27&style=flat-square&label=Profile+Views" alt="Profile views" />
+<img align="right" src="https://komarev.com/ghpvc/?username=ipriyaaanshu&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile views" />
 
 **Building AI agents** at [Imaginuity](https://imaginuity.com) · **Founder** at [ByteBrain](https://thebytebrain.com) · O-1A visa holder · Open source contributor
 
@@ -67,7 +67,7 @@ Recently, I've been deep in the **Hermes Agent** ecosystem — contributing bug 
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ipriyaaanshu&theme=tokyonight&hide_border=true&background=1a1b27)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ipriyaaanshu&theme=tokyo-night&hide_border=true&bg_color=1a1b27)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ipriyaaanshu&theme=tokyo-night&hide_border=true)
 
 </div>
 
