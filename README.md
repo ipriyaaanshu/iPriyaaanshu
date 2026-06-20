@@ -19,13 +19,13 @@ Recently, I've been deep in the **Hermes Agent** ecosystem — contributing bug 
 
 ---
 
-## 🔭 Recent Open Source
+## 🔭 Open Source
 
-| PR | Repo | What |
-|----|------|------|
-| [#49214](https://github.com/NousResearch/hermes-agent/pull/49214) | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Fixed background process killing on stderr output |
-| [#1178](https://github.com/chopratejas/headroom/pull/1178) | [chopratejas/headroom](https://github.com/chopratejas/headroom) | Added missing `unwrap copilot` command |
-| — | [ipriyaaanshu/smart-schema](https://github.com/ipriyaaanshu/smart-schema) | ⭐ 10 — Pydantic schema generation from JSON/CSV |
+| Repo | What |
+|------|------|
+| [ipriyaaanshu/smart-schema](https://github.com/ipriyaaanshu/smart-schema) | ⭐ 10 — Pydantic schema generation from JSON/CSV |
+
+*Merged PRs to external repos will appear here as they land.*
 
 ---
 
@@ -65,8 +65,6 @@ Recently, I've been deep in the **Hermes Agent** ecosystem — contributing bug 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ipriyaaanshu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&icon_color=88c0d0)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ipriyaaanshu&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ipriyaaanshu&theme=tokyonight&hide_border=true&background=1a1b27)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ipriyaaanshu&theme=tokyo-night&hide_border=true)
 
 </div>
@@ -85,5 +83,3 @@ I'm always open to collaborating on agentic AI, open-source tooling, or anything
 
 *Let's build the future of autonomous AI — one agent at a time.*
 
----
-_Last active: 2026-06-19_
