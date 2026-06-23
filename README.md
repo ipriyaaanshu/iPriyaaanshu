@@ -13,7 +13,7 @@
 
 I design and build **autonomous AI systems** — agentic architectures, LLM-powered workflows, and production-grade tooling that solves real problems. My work spans AI agents, infrastructure, and open-source contributions to the tools I use every day.
 
-Recently, I've been deep in the **Hermes Agent** ecosystem — contributing bug fixes, improving process management, and building agent skills. I also work on **Meta Ads automation**, **legal document AI**, and **Home Assistant intelligence** on the side.
+I'm a contributor to **[Headroom](https://github.com/headroomlabs-ai/headroom)** (47k+ ⭐) — the LLM token compression proxy — and the **[Hermes Agent](https://github.com/NousResearch/hermes-agent)** ecosystem, where I fix bugs in process management, CLI tooling, and agent infrastructure. I also work on **Meta Ads automation**, **legal document AI**, and **Home Assistant intelligence** on the side.
 
 > *Inventor of patent-pending AI systems · Springer Nature contributor · Judge for global tech awards*
 
@@ -21,11 +21,17 @@ Recently, I've been deep in the **Hermes Agent** ecosystem — contributing bug 
 
 ## 🔭 Open Source
 
+### Contributions
+
+| Repo | PR | Description |
+|------|-----|-------------|
+| [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | [#1287](https://github.com/headroomlabs-ai/headroom/pull/1287) ✅ merged | fix(langchain): disable streaming on wrapped model during `ainvoke()` |
+
+### Projects
+
 | Repo | What |
 |------|------|
 | [ipriyaaanshu/smart-schema](https://github.com/ipriyaaanshu/smart-schema) | ⭐ 10 — Pydantic schema generation from JSON/CSV |
-
-*Merged PRs to external repos will appear here as they land.*
 
 ---
 
