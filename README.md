@@ -26,6 +26,7 @@ I'm a contributor to **[Headroom](https://github.com/headroomlabs-ai/headroom)**
 | Repo | PR | Description |
 |------|-----|-------------|
 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | [#1287](https://github.com/headroomlabs-ai/headroom/pull/1287) ✅ merged | fix(langchain): disable streaming on wrapped model during `ainvoke()` |
+| [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | [#1301](https://github.com/headroomlabs-ai/headroom/pull/1301) ✅ merged | fix(install): guard `install_agent_ensure` against duplicate runtime spawns |
 
 ### Projects
 
